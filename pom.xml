@@ -32,7 +32,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>core.HtmlUnit</mainClass>
+							<mainClass>core.Selenium</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>

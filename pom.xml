@@ -4,7 +4,7 @@
   <groupId>core</groupId>
   <artifactId>Title_validation</artifactId>
   <packaging>jar</packaging>
-  <version>1.4</version>
+  <version>${build.version}</version>
   <name>Title_validation</name>
   <url>http://maven.apache.org</url>
   <properties>
